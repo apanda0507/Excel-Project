@@ -66,7 +66,7 @@ The project turns scattered, unstructured sales and finance data into **structur
 
 ## 📂 Project Files
 
-- [`Sales_Report.xlsx`](link-to-your-sales-file) – Interactive sales analysis dashboard  
+- [`Final_Sales_Report`](link-to-your-sales-file) – Interactive sales analysis dashboard  
 - [`Finance_Report.xlsx`](link-to-your-finance-file) – Financial performance report with trends  
 - [`Raw_Data.xlsx`](link-to-your-raw-data) – Original dataset used for transformation  
 
