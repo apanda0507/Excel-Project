@@ -50,28 +50,6 @@ The project turns scattered, unstructured sales and finance data into **structur
 - 📉 **Underperformance Detection** – Identify low-performing products/customers  
 - 🧠 **Actionable Insights** – Clear, strategic takeaways for business planning  
 
----
-
-## 📷 Sample Screenshots
-
-> *(Replace the image paths with actual links to your screenshots in the repo)*
-
-![Sales Dashboard](images/sales_dashboard.png)  
-*Sales Performance Dashboard with monthly trend lines and KPIs*
-
-![Finance Overview](images/finance_overview.png)  
-*Financial metrics with profitability insights and charts*
-
----
-
-## 📂 Project Files
-
-- [`PK`](link-to-your-sales-file) – Interactive sales analysis dashboard  
-- [`Finance_Report.xlsx`](link-to-your-finance-file) – Financial performance report with trends  
-- [`Raw_Data.xlsx`](link-to-your-raw-data) – Original dataset used for transformation  
-
----
-
 ## 💡 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:-
 1. In 2021, India emerged as the top-performing market with the highest net sales of $161.3 million, while Sweden recorded the lowest sales at $1.8 million.
 
